@@ -1,0 +1,15 @@
+#GITIGNORE D'UN PROJET JAVA
+# Empeche le push des artéfacts de classe (qui seront créés localement)
+*.class
+
+# Empeche le push des fichiers de log (qui seront créés localement)
+*.log
+
+# Empeche la transmition packages et les fichiers/dossiers compressés #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
